@@ -1,0 +1,27 @@
+Las variables son nombres a los que se les asigna un determinado valor.
+El valor de la variable puede ser pensado como su verdadera forma y la variable
+como aquello que usa meramente para referirse a ese valor.
+
+Las strings son cadenas de letras, en donde cada letra es un eslabón. 
+
+Las funciones toman valores del codigo principal para utilizarlos dentro de un area 
+independiente del resto del codigo, sin compartir relacion alguna, en principio, con 
+este ultimo. Así, por ejemplo, si dentro de la funcion existe una variable homóloga a
+otra fuera de ella, esta nunca podrá confundirse con aquella, ya que en el area de 
+la función, aquella variable que esta en el area principal o global del codigo, no
+existe. Return es una orden dada a la computadora para que transfiera el valor indicado
+posteriormente al area global o principal del codigo.
+
+Las declaraciones if son oraciones condicionales sucedidas por unas órdenes que 
+serán observadas en caso de que la condicion especificada despues del if sea cumplida.
+Por ejemplo:
+
+If hace frio, llevar abrigo
+
+En este caso, si la condicion "hace frio" se cumple, la orden "llevar abrigo" será observada.
+
+Un valor booleano podria simplemente traducirse como la cualidad de una variable de ser verdadera
+o falsa, e interactua con las declaraciones condicionales en cuanto tal. Por ejemplo:
+Si se le asigna el valor equivalente a falso a una variable "x", si se coloca a "x" como condicion
+de una declaracion condicional (If x),  el codigo siempre considerara que la condicion no se cumple
+ya que x es falso.
