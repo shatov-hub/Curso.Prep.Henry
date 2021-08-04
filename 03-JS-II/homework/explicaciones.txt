@@ -1,0 +1,4 @@
+Los for loops son bucles que repiten las ordenes siguientes una cantidad determinada de veces. El maximo de la cantidad esta usualmente determinado por una condicion
+relativa al valor de una variable que se declara al escribir el for loop. Vgr. mientras "i" sea menor a 10
+
+Los operadore logicos &&, ||, ! son equivalentes a los significados de las palabras "y", "o" y a la negacion logica respectivamente.

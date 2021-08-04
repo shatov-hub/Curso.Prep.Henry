@@ -1,0 +1,1 @@
+Los arrays son listados ordenados de elementos. Cada elemento tiene un indice con el cual se puede acceder a el.
