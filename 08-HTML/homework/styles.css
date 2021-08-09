@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/47/76/FBuwQl.jpg);
+}
+
+h1 {
+    color:black;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color:orangered;
+    position: relative;
+    margin: auto;
+    top: 100px;
+}
+
+#img1 {
+    position: relative;
+    top: 51px;
+    z-index: 2;
+    width: 400px;
+}
+
+#img2 {
+    position: relative;
+    bottom: 20px;
+    z-index: 1;
+    height: 350px;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+    border: 1px;
+    border-color: orangered;
+    border-style:groove;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

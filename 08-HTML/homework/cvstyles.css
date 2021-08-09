@@ -1,0 +1,11 @@
+#picture {
+    height: 300px;
+}
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+}
