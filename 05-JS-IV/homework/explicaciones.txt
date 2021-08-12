@@ -1,0 +1,13 @@
+Los objetos son listados de claves. A cada una de estas claves
+le corresponde un valor. Se utilizara la cave para referirse a 
+ese valor.
+
+Las propiedades son cada una de dichas claves.
+
+Los metodos son propiedades cuyo valor es una función.
+
+Los bucles for...in son bucles similares a los for pero
+en vez de iterar en base a una variable i definida en el
+bucle con valor numerico, itera sobre todas las propiedades
+de un objeto. Por eso este bucle es solo utilizable en
+objetos.

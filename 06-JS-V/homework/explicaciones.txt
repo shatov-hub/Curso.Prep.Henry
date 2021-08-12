@@ -1,0 +1,6 @@
+El prototype contiene propiedades y funciones que les seran asignadas a todos los objetos
+pertenecientes a una clase determinada.
+Los contructores son funciones que determinan las propiedades de un objeto en el momento de su
+creación. Estos se crean a través del statement "new" seguido del nombre de la clase y de los 
+argumentos definidos en la función constructor. Luego esta función se encarga de determinar
+las propiedades del nuevo objeto.
